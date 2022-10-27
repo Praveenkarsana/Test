@@ -11,7 +11,7 @@
 
 # display()
 
-def login():
+def login(func1):
     def exec():
         print(" Enter your amount")
         func1()
