@@ -8,5 +8,5 @@ class pub_mod:
         print('age :', self.age) 
 
 obj=pub_mod('ravi', 33)
-print('Name :',obj.name())
+print('Name :',obj.name)
 obj.Age()      
