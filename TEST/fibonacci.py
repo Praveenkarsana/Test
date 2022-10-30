@@ -1,0 +1,5 @@
+name= input("Enter name of the student")
+age=int(input("Enter age of the student"))
+address= input("Enter the address of the student")
+print("==============")
+print("Name: {}\nAge: {}\nAddress: {}".format(name,age,address))
